@@ -1,4 +1,4 @@
-**# 📊 Netflix Dashboard – Tableau
+## 📊 Netflix Dashboard – Tableau
 
 An interactive Tableau dashboard analyzing Netflix’s movies and TV shows dataset.  
 It visualizes trends, genres, ratings, and country-wise content distribution.
